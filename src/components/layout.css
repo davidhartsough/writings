@@ -1,0 +1,56 @@
+body {
+  min-width: 20rem;
+  background-color: hsl(208, 8%, 99%);
+  color: hsla(232, 16%, 8%, 0.96);
+  line-height: 1.5;
+}
+main {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 2rem;
+}
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: 0.025em;
+}
+h1,
+h2 {
+  font-weight: 300;
+}
+h3,
+h4 {
+  font-weight: 500;
+}
+h1 {
+  font-size: 2.5rem;
+  margin: 0.5rem 0;
+}
+h2 {
+  font-size: 1.75rem;
+}
+h3 {
+  font-size: 1.2rem;
+}
+a {
+  color: hsl(208, 96%, 48%);
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+.subheading {
+  font-size: 1.125rem;
+  margin-bottom: 1.5rem;
+}
+.date {
+  font-size: 1rem;
+  color: #666;
+}
+@media screen and (max-width: 350px) {
+  .date {
+    display: block;
+  }
+}
