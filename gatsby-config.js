@@ -4,8 +4,8 @@ module.exports = {
     description:
       'David Hartsough is widely regarded as a happy human, drummer, developer, designer, psychologist, philosopher, and stuntman. These are his writings.',
     keywords:
-      'david,hartsough,davidhartsough,writings,blog,articles,essays,thoughts,think,piece',
-    baseKeywords: 'david,hartsough,',
+      'david, hartsough, davidhartsough, writings, blog, articles, essays, thoughts, think, piece',
+    baseKeywords: 'david, hartsough, ',
     author: 'David Hartsough',
     url: 'https://davidhartsough.com/writings/',
     image: 'https://davidhartsough.com/android-chrome-512x512.png',
@@ -53,7 +53,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'YOUR_GOOGLE_ANALYTICS_TRACKING_ID',
+        trackingId: 'UA-51999116-1',
       },
     },
   ],

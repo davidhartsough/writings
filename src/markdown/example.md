@@ -1,7 +1,7 @@
 ---
-date: '2018-03-31'
-title: 'Style Guide Title'
-keywords: 'style guide,example,testing,styles,template,typography'
+date: '0001-01-01'
+title: 'Style Guide Example Page'
+keywords: 'style, guide, example, testing, design, template, typography'
 description: 'This is a style guide for testing the default typography styles.'
 ---
 

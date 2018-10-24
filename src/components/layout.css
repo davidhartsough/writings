@@ -10,12 +10,6 @@ main {
   padding: 2rem;
 }
 h1,
-h2,
-h3,
-h4 {
-  letter-spacing: 0.025em;
-}
-h1,
 h2 {
   font-weight: 300;
 }
@@ -31,7 +25,7 @@ h2 {
   font-size: 1.75rem;
 }
 h3 {
-  font-size: 1.2rem;
+  font-size: 1.25rem;
 }
 a {
   color: hsl(208, 96%, 48%);
@@ -53,4 +47,16 @@ a:focus {
   .date {
     display: block;
   }
+}
+table {
+  margin-bottom: 3rem;
+}
+p {
+  margin-bottom: 1rem;
+}
+li {
+  margin-bottom: 0.125rem;
+}
+blockquote p {
+  margin-bottom: 0.5rem;
 }
