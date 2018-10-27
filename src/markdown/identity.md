@@ -1,8 +1,8 @@
 ---
-date: '2018-03-31'
+date: '2017-03-31'
 title: 'My Identity'
-keywords: 'style, guide, example, testing, design, template, typography'
-description: 'This is a style guide for testing the default typography styles.'
+keywords: 'identity, values, personality, strengths, missions, beliefs, bio'
+description: 'David Hartsough is a 24-year-old human male. This is his identity broken down by identities, values, missions, strengths, weaknesses, personality, etc.'
 ---
 
 ## David Hartsough
