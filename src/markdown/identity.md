@@ -41,8 +41,8 @@ Purpose, intentionality, rationality, positivity, connection, humor, playfulness
 
 ### Missions
 
-1. To outline the fundamentals of fostering flourishing in order to establish the foundation of humanity's decision-making on the fulfilment of its needs.
-2. To cultivate connectedness in order to address the neglected problem of loneliness.
+1. To outline the fundamentals of fostering flourishing in order to establish the foundation of humanity's decision-making on the fulfillment of its needs.
+2. To cultivate connectedness and conversation in order to address the neglected problem of loneliness and misunderstanding.
 3. To create a community culture that celebrates curiosity, lifelong learning, and personal passion projects in order to inspire aspiration, ambition, and actualization.
 
 ### Beliefs
