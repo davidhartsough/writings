@@ -1,7 +1,7 @@
 ---
 date: '2019-06-26'
 title: 'A surely biased and incomplete list of the best albums of the 21st century'
-keywords: 'music, mix, mixtape, annual, year, yearly, dope, songs'
+keywords: 'music, albums, list, best, top, favorite, century'
 description: 'It is kinda like the David Awards for Albums of the Century, and all the nominees are just whatever albums I ever listened to.'
 ---
 

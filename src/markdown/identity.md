@@ -47,7 +47,7 @@ Purpose, intentionality, rationality, positivity, connection, humor, playfulness
 
 ### Beliefs
 
-Atheist/Agnostic/Unserioustic/Pastafarian
+Atheist, Agnostic, Unserioustic, Pastafarian
 
 ### Perspective
 
