@@ -1,7 +1,7 @@
 {
   "name": "writings-by-david-hartsough",
   "description": "Writings by David Hartsough",
-  "version": "1.0.0",
+  "version": "1.17.3",
   "author": "David Hartsough",
   "dependencies": {
     "gatsby": "^2.0.19",
