@@ -5,9 +5,6 @@ export default ({ data }) => (
   <Helmet>
     <html lang="en" prefix="og: http://ogp.me/ns#" />
     <meta name="author" content={data.author} />
-    <meta property="og:image" content={data.image} />
-    <meta property="og:image:type" content="image/png" />
-    <meta property="og:image:alt" content={data.imageAlt} />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content={data.title} />
     <meta name="twitter:card" content="summary" />
