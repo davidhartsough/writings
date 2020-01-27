@@ -7,7 +7,7 @@ export default ({ data }) => (
   <Layout>
     <IndexHelmet data={data.site.siteMetadata} />
     <header>
-      <h1>Writings</h1>
+      <h1 className="heading">Writings</h1>
       <p className="subheading">
         by{' '}
         <a href={data.site.siteMetadata.authorUrl}>
