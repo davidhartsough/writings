@@ -1,0 +1,23 @@
+.dark-mode-toggle {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 2.5rem;
+  height: 2.5rem;
+  padding: 0.5rem;
+  background: transparent;
+  border: none;
+  margin: 0;
+  font-family: inherit;
+  overflow: visible;
+  font-size: 100%;
+  cursor: pointer;
+  outline: none;
+  user-select: none;
+}
+.dark-mode-icon {
+  fill: hsla(0, 0%, 100%, 0.8);
+}
+.light .dark-mode-icon {
+  fill: hsla(0, 0%, 0%, 0.8);
+}

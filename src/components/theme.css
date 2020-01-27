@@ -1,5 +1,9 @@
 body {
   min-width: 20rem;
+  background-color: #202124;
+  color: #e8eaed;
+}
+body.light {
   background-color: hsl(208, 8%, 99%);
   color: hsla(232, 16%, 8%, 0.96);
 }
@@ -15,8 +19,11 @@ main {
   }
 }
 a {
-  color: hsl(208, 96%, 48%);
   text-decoration: none;
+  color: hsl(210, 96%, 64%);
+}
+.light a {
+  color: hsl(210, 96%, 44%);
 }
 a:hover,
 a:focus {
@@ -35,6 +42,9 @@ h2 {
 }
 .date {
   font-size: 1rem;
+  color: #a9aeb2;
+}
+.light .date {
   color: #666;
 }
 @media screen and (max-width: 350px) {
