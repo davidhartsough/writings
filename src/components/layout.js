@@ -2,7 +2,7 @@ import React from 'react'
 import { StaticQuery, graphql } from 'gatsby'
 import LayoutHelmet from './LayoutHelmet'
 import './base.css'
-import './layout.css'
+import './theme.css'
 
 export default ({ children }) => (
   <StaticQuery

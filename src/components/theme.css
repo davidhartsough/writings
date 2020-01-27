@@ -2,30 +2,17 @@ body {
   min-width: 20rem;
   background-color: hsl(208, 8%, 99%);
   color: hsla(232, 16%, 8%, 0.96);
-  line-height: 1.5;
 }
 main {
+  display: block;
   max-width: 42rem;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 2rem 1.5rem 3rem;
 }
-h1,
-h2 {
-  font-weight: 300;
-}
-h3,
-h4 {
-  font-weight: 500;
-}
-h1 {
-  font-size: 2.5rem;
-  margin: 0.5rem 0;
-}
-h2 {
-  font-size: 1.75rem;
-}
-h3 {
-  font-size: 1.25rem;
+@media screen and (min-width: 384px) {
+  main {
+    padding: 3rem 2rem;
+  }
 }
 a {
   color: hsl(208, 96%, 48%);
@@ -35,9 +22,16 @@ a:hover,
 a:focus {
   text-decoration: underline;
 }
+h1,
+h2 {
+  font-weight: 300;
+}
+.heading {
+  margin: 0;
+}
 .subheading {
   font-size: 1.125rem;
-  margin-bottom: 1.5rem;
+  margin: 0.25rem 0 1.5rem;
 }
 .date {
   font-size: 1rem;
@@ -47,16 +41,4 @@ a:focus {
   .date {
     display: block;
   }
-}
-table {
-  margin-bottom: 3rem;
-}
-p {
-  margin-bottom: 1rem;
-}
-li {
-  margin-bottom: 0.125rem;
-}
-blockquote p {
-  margin-bottom: 0.5rem;
 }

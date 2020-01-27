@@ -20,7 +20,7 @@ export default ({ data }) => {
         }}
       />
       <header>
-        <h1>{md.frontmatter.title}</h1>
+        <h1 className="heading">{md.frontmatter.title}</h1>
         <p className="subheading">
           by <Link to="/">{meta.author}</Link>{' '}
           <span className="date">({md.frontmatter.date})</span>
