@@ -52,3 +52,19 @@ h2 {
     display: block;
   }
 }
+hr {
+  background: hsla(0, 0%, 100%, 0.42);
+}
+.light hr {
+  background: hsla(0, 0%, 0%, 0.2);
+}
+th {
+  border-bottom: 1px solid hsla(0, 0%, 100%, 0.64);
+}
+td {
+  border-bottom: 1px solid hsla(0, 0%, 100%, 0.32);
+}
+.light td,
+.light th {
+  border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+}

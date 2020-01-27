@@ -100,7 +100,6 @@ blockquote p {
   margin-bottom: 0.5rem;
 }
 hr {
-  background: hsla(0, 0%, 0%, 0.2);
   border: none;
   height: 1px;
 }
@@ -117,7 +116,6 @@ thead {
 td,
 th {
   text-align: left;
-  border-bottom: 1px solid hsla(0, 0%, 0%, 0.12);
   font-feature-settings: 'tnum';
   -moz-font-feature-settings: 'tnum';
   -ms-font-feature-settings: 'tnum';
