@@ -23,7 +23,7 @@ When you _first_ listen to someone else's playlist, **DON'T READ THE TRACK LIST*
 
 (Bonus points if you try to make your songs flow nicely between each other by listening closely to the track transitions.)
 
-##### What do I put in my mix?
+#### What do I put in my mix?
 
 Think of songs that were significant to your year. Use inspirations from artists you discovered, saw in concert, or just obsessed over throughout the year. (Spotify makes a playlist for you at the end of the year called "Your Top Songs 20XX" that has your 100 most listened to songs. That's a great place to start.)
 
