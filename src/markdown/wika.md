@@ -24,8 +24,6 @@ Wika /ˌwiːka/ can be classified as a [pidgin language](https://en.wikipedia.or
 
 Also, Wika is often used in conjunction with the basic physical gestures of a complementary one-handed sign language, called Wiko.
 
----
-
 ## Draft 2
 
 | pronouns      | \*i |
@@ -128,8 +126,6 @@ Also, Wika is often used in conjunction with the basic physical gestures of a co
 | 8       | iyo  |
 | 9       | ipo  |
 | 0       | imo  |
-
----
 
 ## Conversations
 
