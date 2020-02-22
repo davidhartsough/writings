@@ -68,3 +68,9 @@ td {
 .light th {
   border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
 }
+.anchor svg {
+  fill: #e8eaed;
+}
+.light .anchor svg {
+  fill: #000;
+}
