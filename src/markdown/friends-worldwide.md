@@ -93,8 +93,6 @@ There's one catch... Slack will only display the last 10,000 messages, total. Th
 
 Friends Worldwide is on the "free tier" of Slack's pricing options. As I mentioned before, Slack is intended for businesses, so it usually expects to make money off businesses that use Slack for company communication. They offer unlimited access to all messages if the Slack space "upgrades" to a paid plan. Sadly, that's costly, and we don't want anyone to pay for this. (It costs $6.67 per person, per month, when billed yearly. Right now that's over $600 a month.)
 
-So! I have a solution for an alternative way of viewing those messages! The only problem is that it requires me to take some time to build a small, separate app for the sole purpose of reading the messages that Slack has since "archived" out of sight. And I frankly haven't started, because it will take a while to do.
+So! I have a solution for an alternative way of viewing those messages! I have created a full archive of the message history for all public channels. Check it out:
 
-(To give you the technical details, I can access the entirety of the message history by asking Slack to export a series of giant JSON files for me. Then, from there I can pull that JSON data down to a web app and render the messages somehow. I'll probably accomplish this with GatsbyJS and host it on some random URL that only Friends will have access to.)
-
-If anyone would like to help me with this project, please let me know. (Send me a Slack message!) I plan on working on it in the next few months.
+> https://friends-slack.web.app/
