@@ -11,7 +11,7 @@ description: 'My words of advice to recent grads, beginning developers, and aspi
 
 Originally I wrote this as a "graduation speech" to the graduating students of a coding bootcamp, [Coding Dojo](https://www.codingdojo.com/boise), in April of 2019. I was asked to give a "tech talk" to the soon-to-be graduates, and then I went all out.
 
-This is a replica of the original [README](https://github.com/davidhartsough/coding-dojo-grad-speech/blob/master/README.md) doc on my GitHub ([see repo](https://github.com/davidhartsough/coding-dojo-grad-speech)). Give it a star there if you like this :)
+This is a replica of the original [README](https://github.com/davidhartsough/advice-for-web-devs/blob/master/README.md) doc on my GitHub ([see repo](https://github.com/davidhartsough/advice-for-web-devs)). Give it a star there if you like this :)
 
 ---
 
