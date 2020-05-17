@@ -15,7 +15,7 @@ module.exports = {
     schemaType: 'Blog',
     authorUrl: 'https://davidhartsough.com/',
     themeColorHex: '#198BED',
-    siteUrl: `https://davidhartsough.com/writings/`,
+    siteUrl: `https://davidhartsough.com/`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
