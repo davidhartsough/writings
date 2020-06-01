@@ -50,7 +50,7 @@ In 2014, [Vernā Myers offered three ways to overcome biases](https://www.ted.co
 
 ### (1) End denial
 
-She said that number one is getting out of denial. We need to stop trying to be "good people" and just be "real people." We just need to acknowledge that we all have biases. Every person does, because every person has a brain and biases are built into the fabric and wirings of our brains and because (2) we all live in a society forged from the same systems that have a long and devastating history of destruction, slavery, genocide, colonization, and tragedy. We all have implicit and unconscious associations that are automatic and innate. As she says, "Go looking for your bias. Please, please, just get out of denial and go looking for disconfirming data that will prove that in fact your old stereotypes are wrong."
+She said that number one is getting out of denial. We need to stop trying to be "good people" and just be "real people." We just need to acknowledge that we all have biases. Every person does, because (1) every person has a brain and biases are built into the fabric and wirings of our brains and because (2) we all live in a society forged from the same systems that have a long and devastating history of destruction, slavery, genocide, colonization, and tragedy. We all have implicit and unconscious associations that are automatic and innate. As she says, "Go looking for your bias. Please, please, just get out of denial and go looking for disconfirming data that will prove that in fact your old stereotypes are wrong."
 
 (She shares one method for rewiring these automatic associations: take time to regularly memorize the beautiful faces of amazing black people and build admiration. Remind yourself of these incredible people and how they came to change the world for better.)
 
@@ -60,7 +60,7 @@ She said that number one is getting out of denial. We need to stop trying to be 
 
 ### (3) See something, say something
 
-We need to set examples. We need to call racism as it is. We need to listen in on our conversations and pick out the moments when friends or family discriminate with their words. In love, we can guide the language. In courage, we can stop sheltering children from the realities of embedded, system racism.
+We need to set examples. We need to call racism as it is. We need to listen in on our conversations and pick out the moments when friends or family discriminate with their words. In love, we can guide the language. In courage, we can stop sheltering children from the realities of embedded, systemic racism.
 
 ## Challenging
 
