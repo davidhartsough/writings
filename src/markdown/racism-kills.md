@@ -5,7 +5,13 @@ keywords: 'racism, discrimination, race, police, definition, eradication, educat
 description: 'A discussion on racism, discrimination, and police brutality and what can be done to eradicate them.'
 ---
 
-Although a more thorough autopsy awaits from a forensic pathologist, the preliminary autopsy of George Floyd reportedly drew upon causes such as "underlying health conditions, including coronary artery disease and hypertensive heart disease". Some argue this as reason to call the event "the death of George Floyd" rather than "the killing of George Floyd." (See [the Wikipedia article](https://en.wikipedia.org/wiki/Death_of_George_Floyd) and [discussion](https://en.wikipedia.org/wiki/Talk:Death_of_George_Floyd#Requested_move_27_May_2020).) However, studies show that discrimination causes these exact diseases. Research demonstrates that higher levels of discrimination are associated with an elevated risk of a broad range of diseases, including high blood pressure and heart disease. Another study shows that blacks and other minorities receive poorer quality care than whites. (This was true for all kinds of medical treatment, from the most simple to the most technologically sophisticated.) Together these facts explain that systemic racism and everyday discrimination had been killing George Floyd his entire life. The police brutality was the pinnacle of the prejudice and the culmination of the discrimination.
+[Edits added June 1st: included more resources under several sections.]
+
+**EDIT**: Latest reports show that the two autopsies ruled that Floyd's death was a homicide due to neck and back compression leading to asphyxia and cardiac arrest. (And oddly, the Wikipedia article's title has not yet changed.)
+
+---
+
+The preliminary autopsy of George Floyd reportedly drew upon causes such as "underlying health conditions, including coronary artery disease and hypertensive heart disease". Some argued this as reason to call the event "the death of George Floyd" rather than "the killing of George Floyd." (See [the Wikipedia article](https://en.wikipedia.org/wiki/Death_of_George_Floyd) and [discussion](https://en.wikipedia.org/wiki/Talk:Death_of_George_Floyd#Requested_move_27_May_2020).) However, studies show that discrimination causes these exact diseases. Research demonstrates that higher levels of discrimination are associated with an elevated risk of a broad range of diseases, including high blood pressure and heart disease. Another study shows that blacks and other minorities receive poorer quality care than whites. (This was true for all kinds of medical treatment, from the most simple to the most technologically sophisticated.) Together these facts explain that systemic racism and everyday discrimination had been killing George Floyd his entire life. The police brutality was the pinnacle of the prejudice and the culmination of the discrimination.
 
 Every seven minutes, a black person dies prematurely in the United States from higher levels of discrimination. (Over 200 black people die every single day who would not die if the health of blacks and whites were equal.)
 
@@ -20,6 +26,12 @@ This is not a single incident; this is not an outlier. This is not _just_ a prob
 # What can be done?
 
 ## Redefine racism
+
+**EDIT June 1st**
+
+The organization, [Dismantling Racism](https://www.dismantlingracism.org/), has a great resource called [Racism Defined](https://www.dismantlingracism.org/racism-defined.html) that speaks to this best.
+
+---
 
 Unfortunately, I, like so many others, have always defined racism as a mere mentality — a negative stereotype. However, this definition fails to be wholly actionable and solvable. It is not operationalized and thereby not measurable. It is vague and unhelpful. If we want change, we need to get as specific as possible about what changes we want to see. And that begins with getting as specific as possible about the core problems. We need an outline of racism that is so descriptive of discrimination that it cannot be ignored as just "a few bad apples" with "bad hearts" and "evil feelings". We need to operationalize racism in the same ways that we have operationalized psychological phenomena such as self-esteem or loneliness. We can measure discrimination in specific behaviors. We can track our progress towards preventing those behaviors. We can push for changes to these numbers and demand reductions of racism based on metrics.
 
@@ -72,6 +84,23 @@ Educate. Unveil. Eradicate.
 
 ### Educate
 
+**EDIT June 1st**
+
+Every moment since this was first published, I keep encountering more and more remarkable resources for education. Here are a couple learning resources to get started:
+
+1. The Smithsonian's [Talking About Race](https://nmaahc.si.edu/learn/talking-about-race) learning resources
+   - [Bias](https://nmaahc.si.edu/learn/talking-about-race/topics/bias)
+   - [Being Antiracist](https://nmaahc.si.edu/learn/talking-about-race/topics/being-antiracist)
+   - [Whiteness](https://nmaahc.si.edu/learn/talking-about-race/topics/whiteness)
+   - [Race and Racial Identity](https://nmaahc.si.edu/learn/talking-about-race/topics/race-and-racial-identity)
+   - [Social Identities and Systems of Oppression](https://nmaahc.si.edu/learn/talking-about-race/topics/social-identities-and-systems-oppression)
+   - [Race and Racial Identity](https://nmaahc.si.edu/learn/talking-about-race/topics/race-and-racial-identity)
+2. [Showing Up For Racial Justice](https://www.showingupforracialjustice.org/resources.html)
+   - [Racism 101](https://www.showingupforracialjustice.org/racism-101.html)
+   - [White Privilege](https://www.showingupforracialjustice.org/white-privilege.html)
+
+---
+
 First, educate yourself.
 
 If you feel uncomfortable and like you don't know what to do, seek out answers. Ask for help. Consult others. Research. Build knowledge and understanding. Look to experts for guidance.
@@ -80,7 +109,7 @@ The absolute best thing that everyone can do to begin to educate themselves is t
 
 Do what you can to fill in the cognitive gaps of racial literacy. [As Priya Vulchi and Winona Guo would call them](https://www.ted.com/talks/priya_vulchi_and_winona_guo_what_it_takes_to_be_racially_literate), the "heart gap" and the "mind gap" are our inabilities to (1) compassionately understand each individual experience and story that makes up the larger statistics and (2) rationally understand the deeper, systemic ways in which racism operates. An elevated racial literacy values both the stories and the statistics, the people and the numbers, and the interpersonal and the systemic.
 
-Then, educate others.
+Next, educate others.
 
 Take what you learn and have it ready to share with those who will listen. Provide people with the resources they need to learn. Encourage people to seek out an experiential education through exposure. Help others understand even the implicit cognitive fallacies of the unconscious mind that cause everyday discrimination.
 
@@ -96,7 +125,7 @@ A single story is never enough. We need to keep informing the public. We need th
 
 ### Eradicate
 
-These are only some of the methods and means of eliminating racism and discrimination (but at least it's a place to start).
+The following are only some of the methods and means of eliminating racism and discrimination (but at least it's a place to start).
 
 #### Workplace inclusion
 
@@ -104,7 +133,7 @@ If you happen to be in charge of a business or its hiring process, then you shou
 
 #### Neighborhood design
 
-If you happen to be in charge of defining the grid system for roads and residential areas, then you should take [Nate Silver's advice](https://www.ted.com/talks/nate_silver_does_racism_affect_how_you_vote) and design neighborhoods with a deliberate layout and arrangement that facilitates positive interactions between families and groups. (And you should try to prevent [Whitopias, as Rich Benjamin would describe them](https://www.ted.com/talks/rich_benjamin_my_road_trip_through_the_whitest_towns_in_america).)
+If you happen to be in charge of defining the grid system for roads and residential areas, then you should take [Nate Silver's advice](https://www.ted.com/talks/nate_silver_does_racism_affect_how_you_vote) and design neighborhoods with a deliberate layout and arrangement that facilitates positive interactions between families and groups of differing races and incomes. (And you should try to prevent ["Whitopias", as Rich Benjamin would describe them](https://www.ted.com/talks/rich_benjamin_my_road_trip_through_the_whitest_towns_in_america).)
 
 #### Mindful brain training
 
@@ -128,6 +157,22 @@ These techniques can easily be taught to all people of all ages and backgrounds.
 
 #### Policing
 
+**EDIT June 1st**
+
+There are so many amazing resources and organizations for improving and understanding policing. Seek out their wisdom; look to their examples. Here are two to begin.
+
+1. [Campaign Zero](https://www.joincampaignzero.org/) lobbies and campaigns for 10 essential policies
+
+![Campaign Zero policies](https://www.joincampaignzero.org/s/CampaignZero.png)
+
+2. [The Obama Foundation](https://www.obama.org/) created a massive PDF called: _[The New Era of Public Safety: An Advocacy Toolkit for Fair, Safe, and Effective Community Policing](https://www.obama.org/wp-content/uploads/Toolkit.pdf)_
+
+Within this toolkit are countless ideas for change and progress in policing, such as suggesting ways to change training, oversight, policy, and law. As an example of its value, this infographic demonstrates the mechanisms of change at various levels and their impacts down the line:
+
+![Mechanisms of Change](https://i.imgur.com/5zhO00U.png)
+
+---
+
 This topic is far too large to cover in a paragraph or three. The truth is that policing needs significant reform. Police officers need more education and training that covers everything from the aforementioned mindful practices to using evidence-based decision-making to design effective strategies that legitimately fulfill the purpose of police: to protect and serve.
 
 For example, we have growing evidence that can tell us what works and what doesn't work for policing strategies. [Officer Renee Mitchell reminds us](https://youtu.be/pejPe3DjkcQ) that random patrol policing and increasing sanctions do not reduce crime and disorder, yet hotspot policing does. Programs like Scared Straight and boot camps don't reduce recidivism, yet Project Hope did. (And blindly following the strict rules of a commanding officer who is offsite and unaware of the complete context, neglects practical wisdom.)
@@ -143,6 +188,14 @@ Additionally, we need to recognize that police have jobs that are entirely uniqu
 The process for picking police should also be a thorough examination which delves into the intentions of any person seeking these positions of authority. When considering any new person, we must ensure that they are healthy psychologically and ethically. (We should not give sociopaths positions of policing authority, for example.) There must be an alignment of values and principles based in service, peace, justice, and altruism. Every police person needs to understand the psychology of their work and its consequential nature both on themselves and the community. They need to know how to deal with the psychologically trying circumstances they may find themselves in. They need to be able to maintain compassion, even in the most stressful of situations.
 
 There is so much more to be said here, but the primary premise is promoting police reform.
+
+#### Peaceful protest and voting
+
+**EDIT June 1st**
+
+The day after this was originally published, [Barack Obama wrote an amazing post](https://www.facebook.com/barackobama/posts/10157802011441749) that addresses the situation best. Please read it. I will only copy a small snippet of the message:
+
+> "The point of protest is to raise public awareness, to put a spotlight on injustice, and to make the powers that be uncomfortable. […] But eventually, aspirations have to be translated into specific laws and institutional practices – and in a democracy, that only happens when we elect government officials who are responsive to our demands. <br> […] So the bottom line is this: if we want to bring about real change, then the choice isn’t between protest and politics. We have to do both. We have to mobilize to raise awareness, and we have to organize and cast our ballots to make sure that we elect candidates who will act on reform."
 
 #### Create complete stories
 
@@ -176,7 +229,7 @@ Whereas, connectedness leads to that first essential step of exposure, unfamilia
 
 We see this predictably demonstrated in neighborhoods; when people live only among neighbors of the same racial group, they are more likely to have racist tendencies, and vice versa (people living within diverse neighborhoods are less likely to be racist).
 
-The opposite of such positive interactions and connectedness is isolation and segregation. The biggest and most sinister divide in our systems comes from residential segregation. As Dr Williams says, "Residential segregation is the secret source that creates racial inequality in the United States." He explains how institutional discrimination in this form leads to divides in which opportunity and privilege are apparent.
+The opposite of such positive interactions and connectedness is isolation and segregation. The biggest and most sinister divide in our systems comes from residential segregation. As Dr Williams says, "Residential segregation is the secret source that creates racial inequality in the United States." He explains how institutional discrimination in this form leads to divides that make gaps in opportunity and privilege apparent.
 
 > "In America, where you live determines your access to opportunities in education, in employment, in housing and even in access to medical care. <br> One study of the 171 largest cities in the United States concluded that there is not even one city where whites live under equal conditions to blacks, and that the worst urban contexts in which whites reside is considerably better than the average context of black communities. <br> Another study found that if you could eliminate statistically residential segregation, you would completely erase black-white differences in income, education and unemployment, and reduce black-white differences in single motherhood by two thirds."
 
@@ -187,6 +240,43 @@ Through segregation, we put people in places where they are powerless to change 
 The evidence is clear: education and interaction among diverse racial groups is vital to resolving racism.
 
 We must foster and facilitate positive social interactions between diverse racial groups. The possibilities for doing so are endless. But no matter the method, the core intention must be to cultivate the values of understanding, reasoning, critical thinking, curiosity, learning, empathy, connection, and compassion. These are the tools of dismantling discrimination. These are our weapons of combat to battle the beast of systemic racism — to end the killings.
+
+## Recap: What can be done?
+
+What can the government do?
+
+1. **Reform policing**
+2. **Create anti-racist legislation**
+3. **Lead by example**
+
+What can the people do?
+
+1. **Educate**: We can learn and teach by improving our educational systems and resources. This involves:
+   1. Clearly defining racism
+   2. Improving racial literacy and racial socialization
+   3. Discussing bias, discrimination, prejudice, oppression, and the different forms of racism
+   4. Collecting and curating essential resources
+   5. Sharing and distributing educational resources
+2. **Connect**: We can foster and facilitate positive interactions between differing racial groups. This involves:
+   1. Organizing positive (and ideally, collaborative/cooperative) experiences for people of different races
+   2. Exposing people to the complete and complex stories of other people and people groups
+   3. Facing initial senses of discomfort, unfamiliarity, and fear
+   4. Dismantling loneliness, isolation, ignorance, disconnection, fear, and hatred
+   5. Cultivating understanding, empathy, and compassion
+3. **Advocate**: We can stand up for anti-racism and stand against racism. This involves:
+   1. Talking, discussing, and conversing
+   2. Peacefully protesting
+   3. Writing and calling representatives
+4. **Participate**: We can get involved with groups, organizations, coalitions, and campaigns. This involves:
+   1. Donating
+   2. Giving support
+   3. Sharing and promoting
+5. **Vote**: We can elect government officials who are anti-racist. This involves:
+   1. Learning about the different levels of office
+   2. Learning where and when to vote
+   3. Learning who the candidates are
+   4. Reviewing their policies
+   5. Choosing the candidate with the best policies
 
 ## Personal acknowledgement
 
