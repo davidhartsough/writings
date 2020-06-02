@@ -255,8 +255,8 @@ What can the people do?
    1. Clearly defining racism
    2. Improving racial literacy and racial socialization
    3. Discussing bias, discrimination, prejudice, oppression, and the different forms of racism
-   4. Collecting and curating essential resources
-   5. Sharing and distributing educational resources
+   4. Collecting, curating, sharing, and distributing essential educational resources
+   5. Brain training in debiasing and mindful recasting and resolving
 2. **Connect**: We can foster and facilitate positive interactions between differing racial groups. This involves:
    1. Organizing positive (and ideally, collaborative/cooperative) experiences for people of different races
    2. Exposing people to the complete and complex stories of other people and people groups
@@ -267,6 +267,8 @@ What can the people do?
    1. Talking, discussing, and conversing
    2. Peacefully protesting
    3. Writing and calling representatives
+   4. Calling out racism and discrimination, no matter how small
+   5. Mentoring in de-escalation and debiasing
 4. **Participate**: We can get involved with groups, organizations, coalitions, and campaigns. This involves:
    1. Donating
    2. Giving support
