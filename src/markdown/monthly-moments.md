@@ -5,7 +5,7 @@ keywords: 'monthly, moments, social, media, sharing, platform, app, website'
 description: 'An exploration on the why and how behind my social sharing app: Monthly Moments.'
 ---
 
-The following is an exploration on the why and how behind my new social sharing app: Monthly Moments. After you've read a bit here and have some context, please [try out the web app](https://monthly-moments.web.app/) and send me your feedback.
+The following is an explanation and exploration on the why and how behind my new social sharing app: Monthly Moments. After you've read a bit here and have some context, please [try out the web app](https://monthly-moments.web.app/) and send me your feedback. I'd love to hear your thoughts!
 
 ## What's this all about?
 
@@ -15,7 +15,7 @@ I believe the internet is one of the world's most powerful tools for connectivit
 
 And yet, a majority of my friends (myself included) have come to find ourselves rejecting social media. I wanted to explore why that is and how it all could be done better.
 
-Next thing you know, I designed and developed my own app. Join me in this exploration. Share your thoughts and opinions with me.
+This project was born out of that disappointment and frustration with today's social media platforms. The app strives to do it better by rethinking the process of social sharing to make it simple, based on the ideal that "Less is More".
 
 ### Why do people not like social media as it is now?
 
