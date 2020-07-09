@@ -7,7 +7,7 @@ description: 'A discussion on racism, discrimination, and police brutality and w
 
 [Edits added June 1st: included more resources under several sections.]
 
-**EDIT**: Latest reports show that the two autopsies ruled that Floyd's death was a homicide due to neck and back compression leading to asphyxia and cardiac arrest. (And oddly, the Wikipedia article's title has not yet changed.)
+**EDIT**: The Wikipedia article's title has since changed.
 
 ---
 
