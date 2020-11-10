@@ -36,9 +36,9 @@ export default ({ data }) => {
             <h1 className="title">
               Writings
               <span className="separator"> • </span>
-              <Link to="/" className="subtitle-link">
+              <a href="https://davidhartsough.com/" className="subtitle-link">
                 David Hartsough
-              </Link>
+              </a>
             </h1>
             <div className="items">
               {items.map(({ id, title, description, slug }) => (
