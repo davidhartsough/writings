@@ -1,6 +1,6 @@
-import React from 'react'
-import { Link } from 'gatsby'
-import { Helmet } from 'react-helmet'
+import React from "react";
+import { Link } from "gatsby";
+import { Helmet } from "react-helmet";
 
 export default () => (
   <main>
@@ -10,10 +10,11 @@ export default () => (
     <section>
       <h1>Whoa there</h1>
       <h2>Bad news</h2>
-      <h3>This ain't lookin' too hot</h3>
+      <h3>This ain&apos;t lookin&apos; too hot</h3>
       <h4>Whoops</h4>
-      <p style={{ fontSize: '28px' }}>
-        Go <Link to="/">home</Link>
+      <p style={{ fontSize: "28px" }}>
+        <span>Go </span>
+        <Link to="/">home</Link>
       </p>
       <p>
         With love,
@@ -25,4 +26,4 @@ export default () => (
       </pre>
     </section>
   </main>
-)
+);

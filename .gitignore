@@ -1,8 +1,19 @@
+# Logs
+yarn-debug.log*
+yarn-error.log*
+
+# Optional eslint cache
+.eslintcache
+
 # Project dependencies
 .cache
 node_modules
-yarn-error.log
 
-# Build directory
-/public
+# dotenv environment variable files
+.env*
+
+# gatsby files
+public
+
+# Mac files
 .DS_Store
