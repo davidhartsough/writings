@@ -9,7 +9,8 @@ module.exports = {
     name: "David Hartsough",
     color: "#198bed",
     url: "https://davidhartsough.com/writings/",
-    baseUrl: "https://davidhartsough.com/"
+    baseUrl: "https://davidhartsough.com/",
+    siteUrl: "https://davidhartsough.com/"
   },
   plugins: [
     "gatsby-plugin-react-helmet",
