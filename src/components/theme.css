@@ -164,6 +164,13 @@ th:last-child,
 td:last-child {
   padding-right: 0;
 }
+details {
+  margin: 1rem 0 2rem;
+  border-bottom: 1px dotted;
+}
+summary {
+  margin: 1rem 0;
+}
 a {
   text-decoration: none;
   color: hsl(210, 96%, 64%);

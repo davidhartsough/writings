@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "David Hartsough",
   "homepage": "https://davidhartsough.com/writings/",
+  "license": "MIT",
   "dependencies": {
     "gatsby": "^2.25.3",
     "gatsby-plugin-catch-links": "^2.3.15",
