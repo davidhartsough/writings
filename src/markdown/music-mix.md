@@ -1,8 +1,8 @@
 ---
-date: '2019-12-31'
-title: 'Dope Music Mixes'
-keywords: 'music, mix, mixtape, annual, year, yearly, dope, songs'
-description: 'Dope music mixes through the years -- the end of the year playlists.'
+date: "2019-12-31"
+title: "Dope Music Mixes"
+keywords: "music, mix, mixtape, annual, year, yearly, dope, playlist, songs"
+description: "Dope music mixes through the years -- the end of the year playlists."
 ---
 
 ## Mixtapes
@@ -29,38 +29,35 @@ Think of songs that were significant to your year. Use inspirations from artists
 
 ### When does this happen?
 
-At the end of the year! The big exchange typically happens around the 29th – 31st of December.
+At the end of the year! The big exchange typically happens around the 27th – 30th of December.
 
 ### Where does this happen?
 
-Friends who are into traditional CDs tend to exchange those during their Christmas or New Year's Eve parties. But for the big exchange of Spotify playlists, you'll want to head on over to the [#music](https://app.slack.com/client/TC5UDUQ82/CC8PMQ3ED) channel in the [Friends Worldwide](https://friendsworldwide.slack.com/) Slack space. (If you aren't already in this Slack group, just ask me to join <hartsoughdavid@gmail.com> and I'll get you in there.)
+Friends who are into traditional CDs tend to exchange those during their Christmas or New Year's Eve parties. But for the big exchange of Spotify (and YouTube) playlists, you'll want to head on over to the [#music](https://app.slack.com/client/TC5UDUQ82/CC8PMQ3ED) channel in the [Friends Worldwide](https://friendsworldwide.slack.com/) Slack space. (If you aren't already in this Slack group, just ask me to join <hartsoughdavid@gmail.com> and I'll get you in there.)
 
 ## David's Dope Music Mixes
 
-### 2019: Oh wowowow
+### 2020: Boom Bop
 
-Listen:
+- [Spotify](https://open.spotify.com/playlist/45NhVlFiUp7fMerZpflXpC?si=uW9dIAs0S8KEeaqGYLmxMw)
+- [YouTube](https://youtube.com/playlist?list=PLNrKhlLaqV1Wa9mBzkdC_i5_rknSyckvK)
+
+### 2019: Oh wowowow
 
 - [Spotify](https://open.spotify.com/playlist/6yhAcmnzy5IajNS0T2NIOJ?si=YAN5dzdtSjOZpCtMpPR4KA)
 - [YouTube](https://www.youtube.com/playlist?list=PLNrKhlLaqV1Ud0eD3q4APbo4mX_VKunqo)
 
 ### 2018: The Year of the Funk
 
-Listen:
-
 - [Spotify](https://open.spotify.com/user/davidhartsough/playlist/2ojp8Ic7jc0RZyxUx2OXjS?si=thWjI2v_SKiRglNqypTQDA)
 - [YouTube](https://www.youtube.com/playlist?list=PLNrKhlLaqV1Xx6aAy-vNUnNS1pGoY8p5H)
 
 ### 2017: Jammy Tunes
 
-Listen:
-
 - [Spotify](https://open.spotify.com/user/davidhartsough/playlist/69THJTQAJbPiKK2YNghbSB?si=nrURj-YSTAqDAHSWwcsw8Q)
 - [YouTube](https://www.youtube.com/playlist?list=PLNrKhlLaqV1VB9Lbj3JALaTXYyiMMccrI)
 
 ### 2016: Scintillating Sounds
-
-Listen:
 
 - [Spotify](https://open.spotify.com/user/davidhartsough/playlist/7BlWTl7i9sRv3uEcTPyz2Y?si=z3MCrq_FTUWGhtBIurlKow)
 - [YouTube](https://www.youtube.com/playlist?list=PLNrKhlLaqV1X57O6LcLW0FqMfX0FS_YXq)
