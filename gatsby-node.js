@@ -28,7 +28,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
   const posts = result.data.allMarkdownRemark.edges;
   const component = path.resolve("./src/templates/markdown.js");
   const slugs = posts.map(({ node: { fields } }) => fields.slug);
-  slugs.forEach(slug => {
+  slugs.forEach((slug) => {
     createPage({ path: slug, component, context: { slug } });
   });
 };

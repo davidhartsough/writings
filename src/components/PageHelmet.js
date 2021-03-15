@@ -6,8 +6,8 @@ import "./theme.css";
 export default function PageHelmet({ title, description, keywords, slug }) {
   const {
     site: {
-      siteMetadata: { name, baseKeywords, url }
-    }
+      siteMetadata: { name, baseKeywords, url },
+    },
   } = useStaticQuery(
     graphql`
       query PageHelmet {

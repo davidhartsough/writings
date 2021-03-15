@@ -4,7 +4,7 @@ import BaseHelmet from "../components/BaseHelmet";
 import PageHelmet from "../components/PageHelmet";
 import PageNav from "../components/PageNav";
 
-export default ({ data }) => {
+export default function MarkdownPage({ data }) {
   const { html, frontmatter, fields } = data.markdownRemark;
   const slug = fields.slug.substring(1);
   const { title, date, keywords, description } = frontmatter;

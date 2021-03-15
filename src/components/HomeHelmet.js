@@ -6,8 +6,8 @@ import "./home.css";
 export default function HomeHelmet() {
   const {
     site: {
-      siteMetadata: { title, description, keywords, url }
-    }
+      siteMetadata: { title, description, keywords, url },
+    },
   } = useStaticQuery(
     graphql`
       query HomeHelmet {

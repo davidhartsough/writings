@@ -16,14 +16,14 @@ const Item = ({ slug, title, description }) => (
   </div>
 );
 
-export default ({ data }) => {
+export default function IndexPage({ data }) {
   const items = data.allMarkdownRemark.edges.map(
     ({
       node: {
         id,
         frontmatter: { title, description },
-        fields: { slug }
-      }
+        fields: { slug },
+      },
     }) => ({ id, title, description, slug })
   );
   return (
@@ -55,7 +55,7 @@ export default ({ data }) => {
       </div>
     </div>
   );
-};
+}
 
 export const query = graphql`
   query IndexQuery {

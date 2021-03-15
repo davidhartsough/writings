@@ -5,8 +5,8 @@ import DarkModeToggle from "./DarkModeToggle";
 export default function PageNav() {
   const {
     site: {
-      siteMetadata: { name }
-    }
+      siteMetadata: { name },
+    },
   } = useStaticQuery(
     graphql`
       query PageNav {
