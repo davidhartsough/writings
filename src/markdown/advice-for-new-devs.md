@@ -1,8 +1,8 @@
 ---
-date: '2019-04-16'
-title: 'Advice for new web devs'
-keywords: 'advice, dev, web, developer, app, engineer, software'
-description: 'My words of advice to recent grads, beginning developers, and aspiring coders.'
+date: "2019-04-16"
+title: "Advice for new web devs"
+keywords: "advice, dev, web, developer, app, engineer, software"
+description: "My words of advice to recent grads, beginning developers, and aspiring coders."
 ---
 
 > Please see the sister project: [Web dev tech trends](https://davidhartsough.com/writings/web-dev-tech-trends)
@@ -53,7 +53,7 @@ Keep growing your potential, developing your skills, and building your confidenc
 
 — a fake quote I made up
 
-Ground zero is making sure you have the tools of the trade ready. An amazing toolbox is essential for an amazing crafts(wo)man. A good development environment exponentially enhances your coding capabilities.
+Ground zero is making sure you have the tools of the trade ready. An amazing toolbox is essential for an amazing craftsperson. A good development environment exponentially enhances your coding capabilities.
 
 1. Configure your command-line interface of choice, such as Terminal, [Hyper](https://hyper.is/), or [iTerm](https://www.iterm2.com/) on Mac.
 1. Install git via [Xcode Command Line Tools](https://hackernoon.com/install-git-on-mac-a884f0c9d32c) (Mac only) or the [git-scm download](https://git-scm.com/downloads).
@@ -138,7 +138,7 @@ Use your website to showcase yourself and your unique identity (or "brand" in _b
 
 ```js
 if (!you.know(whatYouWant)) {
-  return whatYouDontWant
+  return whatYouDontWant;
 }
 ```
 
@@ -171,7 +171,7 @@ Confidence is key to almost everything in life but doubly so for carving a new c
 
 #### Practice
 
-Practicing code means building the types of projects that you want to be confident in being able to create. Hone your craftsmanship; focus on a few types of projects that you want to be confident with. Choose those projects carefully and build a few on your own. This will push you, but your work will only be accountable to you. (It's safe to fail and make mistakes.) Be sure to give yourself project goals that you are passionate about and genuinely interested in. This is the fuel to your motivation! Keep your goals big but realistic.
+Practicing code means building the types of projects that you want to be confident in being able to create. Hone your craft; focus on a few types of projects that you want to be confident with. Choose those projects carefully and build a few on your own. This will push you, but your work will only be accountable to you. (It's safe to fail and make mistakes.) Be sure to give yourself project goals that you are passionate about and genuinely interested in. This is the fuel to your motivation! Keep your goals big but realistic.
 
 Here are some **types** of projects you may wish to practice:
 
@@ -308,7 +308,7 @@ Most of these things you can only learn about by asking people who work there (i
 - Relationships between short-term and long-term goals
 - Forward-thinking objectives focused on the future
 - Autonomy and flexibility of teams and individuals
-- Craftsmanship, expertise, and mastery
+- Expertise and mastery
 - Cross-team interaction / collaboration
 - Working environment and "office" setup (if applicable)
 - Tech stack: who chooses it, how it's chosen, and how/when it changes
