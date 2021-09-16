@@ -5,7 +5,7 @@ keywords: "cognitive, bias, effect, importance, important, avoid, avoidance"
 description: "The Importance-Avoidance Effect is a cognitive bias that causes people to procrastinate and avoid prioritizing something perceived as extremely important."
 ---
 
-My current working theory is that one of the worst things someone with a big project can do is to make their projects feel extremely important. (This is doubly worse for someone with ADHD.) The more important the project, the more daunting it becomes, and the less it gets worked on.
+My current working theory is that one of the worst things someone with a big project can do is to make that project feel extremely important. (This is doubly worse for someone with ADHD.) The more important the project, the more daunting it becomes, and the less it gets worked on.
 
 When a project becomes ultra important, it tends to get in its own way.
 
@@ -52,9 +52,9 @@ The _Importance-Avoidance Effect_ is a cognitive bias that causes people to proc
 
 ## Side tangent about naming
 
-On the streets, this cognitive bias effect also goes by the nickname, "The Fainting Goat Effect", so it can fit in with its homies, "The Ostrich Effect" and "The Meerkat Effect", who obviously have cool animal names. And besides trying to take after the ostrich effect's cool name, _the fainting goat effect_ has been tryna jock the ostrich effect's style too by following similar patterns…
+On the streets, this cognitive bias effect also goes by the nickname, "The Fainting Goat Effect", so it can fit in with its homies, "The Ostrich Effect" and "The Meerkat Effect", who obviously have cool animal names. And besides trying to take after the ostrich effect's cool name, the fainting goat effect has been tryna jock the ostrich effect's style too by following similar patterns…
 
-The ostrich effect is a cognitive bias that causes people to avoid _information_ perceived as potentially unpleasant. It is believed to be the result of the conflict between what our rational mind knows to be important and what our emotional mind anticipates will be painful.
+The ostrich effect is a cognitive bias that causes people to avoid information perceived as potentially unpleasant. It is believed to be the result of the conflict between what our rational mind knows to be important and what our emotional mind anticipates will be painful.
 
 The importance-avoidance effect (AKA the fainting goat effect) isn't about avoiding _information_, it is instead about avoiding _initiative_. And instead of a perception of _unpleasantness_, it's a perception of _extreme importance_ (which is often accompanied by a perceived need for perfection, which in turn may actually result in feelings of negative emotions, distress, and unpleasantness).
 
@@ -64,7 +64,7 @@ Here's another way of thinking about this…
 
 ## Backfire
 
-When something has the potential to actually be ultra important, it is usually so overwhelming to contemplate the severity and complexity of it that it is often easier to just avoid and ignore it entirely.
+When something has the potential to be ultra important, it is usually so overwhelming to contemplate the severity and complexity of it that it is often easier to just avoid and ignore it entirely.
 
 One of the biggest issues with this is that we all tend to assume that emphasizing the importance of something will increase the likelihood that we will prioritize it, whereas this effect shows that this can backfire.
 
@@ -72,19 +72,17 @@ By trying to reinforce the value of something to build the most convincing case 
 
 #### Acknowledgement
 
-(This of course assumes that the person already believes that the thing in question is at least important/valuable enough to prioritize in the first place. If someone truly doesn't understand the value of something nor its importance, then there actually ought to be an intervention of this kind of motivation: education on the value and importance. This discussion is not dealing with that scenario.)
+(This of course assumes that the person already believes that the thing in question is at least important/valuable enough to prioritize in the first place. If someone truly doesn't understand the value of something nor its importance, then there ought to be an intervention of this kind of motivation that educates them on the value and importance. This discussion is not dealing with that scenario.)
 
 ## Summary by Ting Jiang
 
-In the Clearer Thinking podcast episode with Ting Jiang, she explains how this creates a two-part heuristic that leads to avoidance:
+In the [Clearer Thinking podcast episode with Ting Jiang](https://clearerthinkingpodcast.com/?ep=037), she explains how this creates a two-part heuristic that leads to avoidance:
 
-[Behavior Change and Interpersonal Connection with Ting Jiang | Spotify](https://open.spotify.com/episode/7vhJM8Hvt9qlcguqNaYCuT?si=n2_v03ZPSF-1dUPkgOlBcg) @ 8:24 – 10:00
+[[Behavior Change and Interpersonal Connection with Ting Jiang | Spotify](https://open.spotify.com/episode/7vhJM8Hvt9qlcguqNaYCuT?si=n2_v03ZPSF-1dUPkgOlBcg) @ 8:24 – 10:00]
 
 > "The more you emphasize the importance of an action, the more likely someone is going to procrastinate on it and actually decide not to do it.
 >
-> There's actually lower uptake with the emphasis of importance. (And this is related to the heuristic and bias of the ostrich effect.) So when you think something is important, first of all you have a heuristic of:
->
-> 'Oh, maybe this deserves more attention. Let me spend more time on it later.'
+> There's actually lower uptake with the emphasis of importance. (And this is related to the heuristic and bias of the ostrich effect.) So when you think something is important, first of all you have a heuristic of: _'Oh, maybe this deserves more attention. Let me spend more time on it later.'_
 >
 > But on the other hand, because it's important, if you don't have a clear idea of what to do and have enough confidence that you'll arrive at a good decision, you're also afraid of it. And that negative emotion pushes it off even more, or you will try to avoid it.
 >
@@ -98,7 +96,7 @@ There are a few key ideas she touched on that I want to highlight:
 
 ### Time, focus, attention, and deep work
 
-When we're faced with something perceived as extremely important, we often believe that it deserves more time and attention than we can give to it right now. This leads us to believe that this task or project at hand will require extreme dedication and prioritization. We start to tell ourselves that we will need two times the amount of time we may have projected before. So suddenly the work-time required doubled and we are hard pressed to find any time in our schedules to give that level of commitment and dedication. (This is also compounded by the belief that extremely important things deserve more perfection. [More on that later.]) In sum, we start to believe that this task or project will need a degree of attention and time that we cannot muster in normal circumstances. As the importance becomes more extreme so do the conditions of engagement. An extremely important project requires extremely perfect circumstances. And in the end, the extreme conditions may never be met, creating a perpetual avoidance and procrastination.
+When we're faced with something perceived as extremely important, we often believe that it deserves more time and attention than we can give to it right now. This leads us to believe that this task or project at hand will require extreme dedication and prioritization. We start to tell ourselves that we will need two times the amount of time we may have projected before. So suddenly the work-time required just doubled and we are hard pressed to find any time in our schedules to give that level of commitment and dedication. (This is also compounded by the belief that extremely important things deserve more perfection. [More on that later.]) In sum, we start to believe that this task or project will need a degree of attention and time that we cannot muster in normal circumstances. As the importance becomes more extreme so do the conditions of engagement. An extremely important project requires extremely perfect circumstances. And in the end, the extreme conditions may never be met, creating a perpetual avoidance and procrastination.
 
 ### Clarity, confidence, and self-efficacy
 
@@ -116,9 +114,9 @@ Usually, when I believe that a project is extremely important, I then also belie
 
 The more important and valuable the project, the more utterly perfect it must be.
 
-And while striving for perfection often leads to outstanding and extraordinary outcomes, a need for extreme perfection can actually just be paralyzing and create a platform of procrastination. So for me, the ideal is to do whatever is necessary to get started on a project, and that might require a rejection of perfection. I can't be perfect; I can't perform perfectly; and I cannot execute the perfect project. If I expect perfection of myself from the beginning, I may never engage with the project at all. This comes back to the concept of self-efficacy and self-confidence as well; in the frame of perfection, my capabilities will never meet the mark.
+And while striving for perfection often leads to outstanding and extraordinary outcomes, a need for extreme perfection can actually just be paralyzing and create a platform of procrastination. So for me, the ideal is to do whatever is necessary to get started on a project, and that might require a rejection of perfection — I can't be perfect; I can't perform perfectly; and I cannot execute the perfect project. If I expect perfection of myself from the beginning, I may never engage with the project at all. This comes back to the concept of self-efficacy and self-confidence as well; in the frame of perfection, my capabilities will never meet the mark.
 
-Expectations of perfection can make a project feel unattainable, especially when that project is evenly moderately complex and consequential. It is sometimes impossible and even detrimental to try to thoroughly analyze and evaluate all possible factors and outcomes of a project. (Trust me, this is coming from a person who puts "thoroughness" down as his #1 favorite/greatest strength.) If you must make every consideration and every potential consequence perfect, your project may never see the light of day. It's a nearly impossible task to expect of yourself (or anyone for that matter).
+Expectations of perfection can make a project feel unattainable, especially when that project is even moderately complex and consequential. It is sometimes impossible and even detrimental to try to thoroughly analyze and evaluate all possible factors and outcomes of a project. (Trust me, this is coming from a person who puts "thoroughness" down as his #1 favorite/greatest strength.) If you must make every consideration and every potential consequence perfect, your project may never see the light of day. It's a nearly impossible task to expect of yourself (or anyone for that matter).
 
 ## So what can we do?
 
@@ -155,7 +153,7 @@ But then I think the next best thing we can _start_ to do is:
 - Feeling like you're lacking self-efficacy and self-confidence? Take time to train and improve your abilities and skills in whichever ways work best for you.
 - Take a step back and clarify your vision; then write it down somewhere you can always easily reference.
 - Remember that action begets action! Get the ball rolling. Build momentum.
-- Go work on your project right now and just do one single task. Onward!
+- Go work on your project right now and **just do one single task**. Onward!
   - If you absolutely cannot do anything related to your project right now, then schedule time to do at least one related task in the next [36] hours. Set a reminder in your phone or mark it on your calendar.
   - Every step forward makes the goal more enticing!
 
@@ -165,7 +163,7 @@ Essentially, most of these tips and techniques boil down to recognizing the cogn
 
 Motivation and demotivation are tricky, nuanced things that are rather personal. One of the biggest and most rewarding challenges in life is unraveling the mysteries of your own motivation. (What makes you come alive? What stresses you out? What makes you eager and excited? What makes you feel burnt out?)
 
-Tailor the insights you might gain from this "importance-avoidance" effect to your own understanding of your motivation. (What might be quite motivating for some people could be demotivating for others. So blanket statements about motivation can be risky.)
+Tailor the insights you might gain from this "importance-avoidance effect" to your own understanding of your motivation. (What might be quite motivating for some people could be demotivating for others. [So blanket statements about motivation can be risky.])
 
 ## Thanks
 
