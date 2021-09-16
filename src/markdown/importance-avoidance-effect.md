@@ -70,7 +70,7 @@ One of the biggest issues with this is that we all tend to assume that emphasizi
 
 By trying to reinforce the value of something to build the most convincing case of why that thing is important, we think we're going to effectively motivate even more. However, this effect can lead to more procrastination and less effective prioritization.
 
-### Acknowledgement
+#### Acknowledgement
 
 (This of course assumes that the person already believes that the thing in question is at least important/valuable enough to prioritize in the first place. If someone truly doesn't understand the value of something nor its importance, then there actually ought to be an intervention of this kind of motivation: education on the value and importance. This discussion is not dealing with that scenario.)
 
