@@ -24,11 +24,21 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
       }
     `
   );
-  if (result.errors) throw result.errors;
+  if (result.errors) {
+    // eslint-disable-next-line no-console
+    console.error(result.errors);
+    return;
+  }
   const posts = result.data.allMarkdownRemark.edges;
   const component = path.resolve("./src/templates/markdown.js");
-  const slugs = posts.map(({ node: { fields } }) => fields.slug);
+  const slugs = posts.map(({ node }) => node.fields.slug);
   slugs.forEach((slug) => {
-    createPage({ path: slug, component, context: { slug } });
+    createPage({
+      path: slug,
+      component,
+      context: {
+        slug,
+      },
+    });
   });
 };

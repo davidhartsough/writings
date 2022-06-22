@@ -13,15 +13,35 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-react-helmet",
+    "gatsby-plugin-image",
+    "gatsby-plugin-sitemap",
+    "gatsby-plugin-catch-links",
+    "gatsby-plugin-sharp",
+    "gatsby-transformer-sharp",
+    {
+      resolve: "gatsby-plugin-google-analytics",
+      options: {
+        trackingId: "UA-51999116-1",
+      },
+    },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "markdown",
-        path: `${__dirname}/src/markdown`,
+        path: "./src/markdown/",
       },
+      __key: "markdown",
     },
     {
-      resolve: `gatsby-transformer-remark`,
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "images",
+        path: "./src/images/",
+      },
+      __key: "images",
+    },
+    {
+      resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
           "gatsby-remark-external-links",
@@ -29,15 +49,6 @@ module.exports = {
         ],
       },
     },
-    "gatsby-plugin-sitemap",
-    "gatsby-plugin-catch-links",
-    {
-      resolve: "gatsby-plugin-google-analytics",
-      options: {
-        trackingId: "UA-51999116-1",
-      },
-    },
-    "gatsby-plugin-offline",
   ],
   pathPrefix: "/writings",
 };
