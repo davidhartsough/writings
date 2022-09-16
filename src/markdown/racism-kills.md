@@ -1,8 +1,8 @@
 ---
-date: '2020-05-31'
-title: 'Racism kills: What can be done?'
-keywords: 'racism, discrimination, race, police, definition, eradication, education, interaction'
-description: 'A discussion on racism, discrimination, and police brutality and what can be done to eradicate them.'
+date: "2020-05-31"
+title: "Racism kills: What can be done?"
+keywords: "racism, discrimination, race, police, definition, eradication, education, interaction"
+description: "A discussion on racism, discrimination, and police brutality and what can be done to eradicate them."
 ---
 
 [Edits added June 1st: included more resources under several sections.]
@@ -195,7 +195,7 @@ There is so much more to be said here, but the primary premise is promoting poli
 
 The day after this was originally published, [Barack Obama wrote an amazing post](https://www.facebook.com/barackobama/posts/10157802011441749) that addresses the situation best. Please read it. I will only copy a small snippet of the message:
 
-> "The point of protest is to raise public awareness, to put a spotlight on injustice, and to make the powers that be uncomfortable. […] But eventually, aspirations have to be translated into specific laws and institutional practices – and in a democracy, that only happens when we elect government officials who are responsive to our demands. <br> […] So the bottom line is this: if we want to bring about real change, then the choice isn’t between protest and politics. We have to do both. We have to mobilize to raise awareness, and we have to organize and cast our ballots to make sure that we elect candidates who will act on reform."
+> "The point of protest is to raise public awareness, to put a spotlight on injustice, and to make the powers that be uncomfortable. […] But eventually, aspirations have to be translated into specific laws and institutional practices – and in a democracy, that only happens when we elect government officials who are responsive to our demands. <br> […] So the bottom line is this: if we want to bring about real change, then the choice isn't between protest and politics. We have to do both. We have to mobilize to raise awareness, and we have to organize and cast our ballots to make sure that we elect candidates who will act on reform."
 
 #### Create complete stories
 

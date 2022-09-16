@@ -1,8 +1,8 @@
 ---
-date: '2018-09-08'
-title: 'Wika: a mini universal language'
-keywords: 'language, universal, international, auxiliary, pidgin, communication, common, travel'
-description: 'Wika is a pidgin language or universal/international auxiliary language for people from different nations to communicate basic needs.'
+date: "2018-09-08"
+title: "Wika: a mini universal language"
+keywords: "language, universal, international, auxiliary, pidgin, communication, common, travel"
+description: "Wika is a pidgin language or universal/international auxiliary language for people from different nations to communicate basic needs."
 ---
 
 ## Definition
@@ -214,11 +214,11 @@ Inspired by others
 - Please
 - Thanks (thank you)
 - (no) thank you
-- (You’re) Welcome
-- (I’m) Sorry
+- (You're) Welcome
+- (I'm) Sorry
 - Excuse (me)
-- (It’s / I’m / We’re / You’re) Okay
-- (I don’t) understand / know
+- (It's / I'm / We're / You're) Okay
+- (I don't) understand / know
 - Help
 - Food
 - Beverage
@@ -232,7 +232,7 @@ Inspired by others
 - Sleep
 - Place (for something) [room/station/airport/restaurant/hotel]
 - (I) want / would like
-- (I don’t) want / (I would not) like
+- (I don't) want / (I would not) like
 - Go (to) / Run
 - Stop
 - Time
@@ -540,7 +540,7 @@ Use open hand, finger tips pointed at reference(s) (panning or circular gestures
 5. Money. :: Ana. :: Buy. Sell. :: Ona. :: open hand, palm upward, thumb outward, bring straightened fingers in toward thumb
 6. Recommendation. :: Awa. :: open hand, point fingers at brain, bring fingers to touch side of head
 7. Knowledge. Information. :: Aka. :: Know. :: Oka. :: closed fist, point index finger at brain, bring finger to touch side of head
-8. Time. :: Ama. :: closed fist, point index finger at the top of other hand’s wrist
+8. Time. :: Ama. :: closed fist, point index finger at the top of other hand's wrist
 
 ### Numbers
 

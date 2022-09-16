@@ -66,7 +66,7 @@ Ground zero is making sure you have the tools of the trade ready. An amazing too
 
 ### Setting up your GitHub
 
-> GitHub is home to the world’s largest community of developers and their projects. Join the millions of developers already using GitHub to share their code, work together, and build amazing things.
+> GitHub is home to the world's largest community of developers and their projects. Join the millions of developers already using GitHub to share their code, work together, and build amazing things.
 
 — what GitHub says about themselves.
 

@@ -1,8 +1,8 @@
 ---
-date: '2015-01-17'
-title: 'The Diamond in the Light'
-keywords: 'perspective, experience, travel, transformation, reflection, worldview'
-description: 'An essay that examines the value of travel as a transformative experience of change and growth by exploring the impact of reflection upon perspectives.'
+date: "2015-01-17"
+title: "The Diamond in the Light"
+keywords: "perspective, experience, travel, transformation, reflection, worldview"
+description: "An essay that examines the value of travel as a transformative experience of change and growth by exploring the impact of reflection upon perspectives."
 ---
 
 **Prompt**: _Write an informative essay on the value of travel as a transforming experience of change and growth._
@@ -19,7 +19,7 @@ Unfortunately yet truthfully, travel has not always been a top bucket list item 
 
 While there were many factors involved, one could argue that travel played a major role in these historical events; a correlation is evident between the times when travel was most difficult and its significance was disregarded and when the least amount of growth occurred in western civilization's intellectual and cultural aspects (and vice versa, demonstrating a direct proportion between the two). When the people in the room were quietly gathered into one place to look at the diamond in the light, they kept themselves from experiencing other colors and perspectives. Travel serves as the perfect tool for expanding, exploring, and reshaping perspectives, and with an improved perspective comes an improved reality.
 
-Today, western civilization recognizes the importance of travel, as it presents many opportunities to try new experiences, overcome challenges, and learn much about others and oneself along the way. While many merely travel with the expectations of simply sightseeing, observing differences in others' daily lives and perspective is nearly inevitable. Henry Miller once said, "One’s destination is never a place, but rather a new way of looking at things." Once the observances have been made, the traveling individual then holds a most valuable treasure within a chest only unlockable through self-examination. Traveling often explores both new places and new thoughts. The mental exploration seeks to understand the unfamiliar experiences. As a result, one will find a new understanding of the self through a new understanding of others and the world surrounding. Each and every journey is capable of transforming those who undertake it. As one encounters new people with varying worldviews, the potential for personal growth awaits its catalyst: reflection.
+Today, western civilization recognizes the importance of travel, as it presents many opportunities to try new experiences, overcome challenges, and learn much about others and oneself along the way. While many merely travel with the expectations of simply sightseeing, observing differences in others' daily lives and perspective is nearly inevitable. Henry Miller once said, "One's destination is never a place, but rather a new way of looking at things." Once the observances have been made, the traveling individual then holds a most valuable treasure within a chest only unlockable through self-examination. Traveling often explores both new places and new thoughts. The mental exploration seeks to understand the unfamiliar experiences. As a result, one will find a new understanding of the self through a new understanding of others and the world surrounding. Each and every journey is capable of transforming those who undertake it. As one encounters new people with varying worldviews, the potential for personal growth awaits its catalyst: reflection.
 
 The Oxford dictionary defines reflection as serious thought or consideration ("Reflection"). Reflection provides one the opportunity to learn from new experiences; it promotes mindfulness and awareness and is a time to process, examine, analyze, understand, and recognize all of one's thoughts, actions, reasons, feelings, ideas, and values. Through an open-minded and honest reflection, one may come to accept and acknowledge all these components of the self for what they are, cultivating the thoughts, actions, feelings, ideas, and values that are positive and reasonable, while releasing and letting go of those that are not.
 

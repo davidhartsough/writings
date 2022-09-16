@@ -1,7 +1,7 @@
 ---
-date: '2019-08-01'
+date: "2019-08-01"
 title: "50 People's Impacts"
-keywords: 'people, impacts, legacy, admire, emulate, potential, aspiration, inspiration, motivation'
+keywords: "people, impacts, legacy, admire, emulate, potential, aspiration, inspiration, motivation"
 description: "An examination of 50 people and their positive impact on the world. Inspiration based on the idea: 'You can't be what you can't see.'"
 ---
 
@@ -32,7 +32,7 @@ In my own life, the wisdom of this quote helps me as I strive to define my ident
     - economic policy
     - Reform capitalism and change its value system
     - federal government reorganize the economy
-    - capitalist economy that’s geared toward maximizing human well-being and fulfillment
+    - capitalist economy that's geared toward maximizing human well-being and fulfillment
     - Human capitalism would have a few core tenets:
       1.  Humanity is more important than money.
       1.  The unit of an economy is each person, not each dollar.
