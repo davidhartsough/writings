@@ -7,6 +7,8 @@ description: "An essay on how to make your writings and posts more readable and 
 
 **TL;DR:** Understand your reader, and assume they need you to be more clear and concise in order to understand your ideas.
 
+<br/>
+
 But readability isn't just clarity and brevity; let's talk about assumptions for approachability and ways to step into the mind of your reader.
 
 ### Outline
