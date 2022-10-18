@@ -5,29 +5,29 @@ keywords: "writing, write, read, readable, readability, understand, understandin
 description: "An essay on how to make your writings and posts more readable and approachable."
 ---
 
-**TL;DR:** Understand your reader, and assume they need you to be more clear and concise in order to understand your ideas.
+> **TL;DR:** Broaden and deepen your understanding of your reader, and assume they need your post to be more clear and concise in order to understand your ideas.
 
 <br/>
 
-But readability isn't just clarity and brevity; let's talk about assumptions for approachability and ways to step into the mind of your reader.
+But readability isn't just "clarity and brevity"; let's talk about assumptions for approachability and ways to step into the mind of your reader.
 
 ### Outline
 
-1. Prose ["On Writing and Revising"](#on-writing-and-revising) and the reasoning behind "readability"
-2. List of ["Readable Writing Tips"](#reader-representation) and helpful assumptions to make of your reader
-3. Breakdown of ["Principles"](#principles) on readable and approachable writing
+1. Prose [On Writing and Revising](#on-writing-and-revising) and the reasoning behind "readability"
+2. List of [Readable Writing Tips](#reader-representation) and helpful assumptions to make of your reader
+3. Breakdown of [Principles](#principles) on readable and approachable writing
 4. Quick [Conclusion](#conclusion)
 
 ### (Just For Fun) Foreword
 
-Most posts begin with some quote by some "wise" old person (who probably already said most of what the author is hoping to say in their post). It seems fun, so I made up this "proverbial" quote and hope you read it in the raspy voice of an old, wise person:
+Most posts begin with a quote by some "wise" old person (who probably already said most of what the author is hoping to say in their post). It seems fun, so I made up this "proverbial" quote and hope you read it in the raspy voice of an old, wise person:
 
 > It is not a matter of merely _writing_ and _publishing_; one must _edit_ and _revise_ as well. \
-> So too is it not a matter of what _can_ be read; rather, one must ask: "What _will_ be read?"
+> So too is it not only a matter of what _can_ be read; rather, one must ask: "What _will_ be read?"
 
-# On Writing and Revising
+## On Writing and Revising
 
-## Write to be Read
+### Write to be Read
 
 When you write a post, your end goal is for your readers to _understand_ you and your ideas.
 
@@ -41,7 +41,7 @@ Presumably, these are the steps you _hope_ to achieve with your writing process:
 But dang, even making it to step 2 is a challenge! \
 How can you ensure that anyone will even _read_ your writings, nevertheless begin to _understand_ the ideas you've written about?
 
-## Understand to be understood
+### Understand to be understood
 
 Upon closer inspection, you realize that you have to know: (1) who your reader is, and (2) how to write readable and understandable posts.
 
@@ -54,17 +54,25 @@ If you understand your readers, then you can write in a way that your readers un
 
 Revision involves turning your writing into something that: (1) _can_ be read and _will_ be read, and (2) is _understanding_ and _understandable_.
 
-Understanding your reader requires you to form a mentalization/representation of them.
+And understanding your reader requires you to form an accurate mentalization/representation of them.
 
-# Reader Representation
+## Reader Representation
 
 One of the hardest parts of writing is trying to put yourself in the mind of your reader and examine your prose from the mental perspective of "the other" (for example: ["The Curse of Knowledge"](https://en.wikipedia.org/wiki/Curse_of_knowledge)).
 
 This list attempts to capture best practices for a functional _theory of mind_ of your reader.
 
-## Readable Writing Tips
+### Readable Writing Tips
 
-Tip #0. **Default**: _If_ you do not already have a specific target audience in mind, default to the assumption that: your post may be read by _any_ of the estimated 1 billion English-speaking adults with internet access.
+I've purposely designed this section to be a numbered list that can be easily referenced/referred to when people are providing editing and revision advice to each other's drafts.
+
+For instance, one editor might suggest to an author:
+
+> "While I love your tone, word-choice, and style, this currently feels _opaque_ to some readers because it's mostly a large chunk of paragraphs with a TL;DR at the top. I think it could be much more _comprehensible_ with some headings (#8) and transitions (#14), along with a sentence near your TL;DR summary that briefly explains the motivation (#6)."
+
+Each tip has a number, a name, an assumption to make about your reader, a question your reader might ask, and a strategy or two to implement.
+
+Extra preliminary tip #0. **Default**: _If_ you do not already have a specific target audience in mind, default to the assumption that: your post may be read by _any_ of the estimated 1 billion English-speaking adults with internet access.
 
 1. **Terms**: Assume your reader has never heard of the key terms in your post.
    - "What does this mean?"
@@ -145,7 +153,19 @@ Tip #0. **Default**: _If_ you do not already have a specific target audience in 
       - How did your friend feel while listening?
       - Did your friend understand your ideas?
 
-# Principles
+### Best Advice
+
+> "Whoa, 20 tips! That's too many; just gimme the good stuff."
+
+Ok, fine; 20 is a big number. Here's the best advice I can offer in 3 steps:
+
+1. While you're writing, think of 3-5 diverse people as your audience (e.g. someone old, someone young, someone from another country, someone from a different socioeconomic background, someone from a different culture, etc). Make sure they are real people that you know well enough to imagine their responses. Picture them reading and reacting to your post, sentence by sentence. (Revise as you go.)
+2. Once you've finished your first draft, imagine watching 2 of your favorite authors read your post and react to it. Imagine sending an email to the most esteemed writer you know and asking them for feedback. Predict their reply. (Go back and rewrite again.)
+3. Finally, once you've gone through a few drafts and feel like you've got it, ask at least 2 diverse people to read it and give you feedback. (Make your final revisions.)
+
+## Principles
+
+Underlying each of these tips are fundamental ideals on what "good" writing is, based on core concepts of _readability_ and _approachability_.
 
 **Readable** writing is:
 
@@ -177,7 +197,7 @@ Tip #0. **Default**: _If_ you do not already have a specific target audience in 
   - Considerate
   - Understanding
 
-# Conclusion
+## Conclusion
 
 > "It's all about empathy, baby!" — the less "proverbial" young person<sup>1</sup>
 
@@ -194,4 +214,4 @@ I believe that "writing _for_ the reader" is the most **caring** thing an author
 
 ### Footnote
 
-<p style="font-size: 0.875rem">1: P.S. From the anxious author: I'm still learning all of this <em>now</em>, so my writings from before (October 2022) are <em>not</em> good examples of readable posts. I don't always exemplify this skill yet, so please don't call me a hypocrite until at least a few posts/months later.</p>
+<p style="font-size: 0.875rem">1: P.S. From the author: I'm still learning all of this <em>now</em>, so my writings from before (October 2022) are <em>not</em> good examples of readable posts. I don't always exemplify this skill yet, so please don't call me a hypocrite until at least a few posts/months later.</p>
