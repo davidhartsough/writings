@@ -385,8 +385,8 @@ In 2020, Huppert and colleagues created a new "[theoretically-based multidimensi
 
 1. **Emotional Stability**: I do not get easily upset.
 2. **Optimism**: I am always optimistic about my future.
-3. **Positive** Relationships: There are people with whom I can discuss intimate and personal matters.
-4. **Prosocial** Behavior: If a person needs help, I would do almost anything I could to assist.
+3. **Positive Relationships**: There are people with whom I can discuss intimate and personal matters.
+4. **Prosocial Behavior**: If a person needs help, I would do almost anything I could to assist.
 5. **Self-Esteem**: I feel that I have a number of good qualities.
 
 #### The Wellbeing Framework
