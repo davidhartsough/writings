@@ -43,18 +43,14 @@ How can you ensure that anyone will even _read_ your writings, nevertheless begi
 
 ### Understand to be understood
 
-Upon closer inspection, you realize that you have to know: (1) who your reader is, and (2) how to write readable and understandable posts.
+Upon closer inspection, you need to know: (1) who your reader is, and then (2) how to write posts that will be readable and understandable to them.
 
-Now this process involves more complex steps:
+Now this process involves more nuanced steps:
 
 1. Ensure **you** understand _your readers_. ("Who is reading my writing?")
 2. Ensure **your readers** understand _you_. ("Will they understand my writing?")
 
-If you understand your readers, then you can write in a way that your readers understand you.
-
-Revision involves turning your writing into something that: (1) _can_ be read and _will_ be read, and (2) is _understanding_ and _understandable_.
-
-And understanding your reader requires you to form an accurate mentalization/representation of them.
+If you understand your readers, then you can write in a way that your readers understand you. Thus, good writing: (1) _can_ be read and _will_ be read, and (2) is _understanding_ and _understandable_. But good _understanding_ requires you to form an accurate mentalization/representation of your readers.
 
 ## Reader Representation
 
