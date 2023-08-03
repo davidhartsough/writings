@@ -1,8 +1,8 @@
 ---
-date: '2017-03-31'
-title: 'My Identity'
-keywords: 'identity, values, personality, strengths, missions, beliefs, bio'
-description: 'David Hartsough is a young human male. This is his identity broken down by identities, values, missions, strengths, weaknesses, personality, etc.'
+date: "2017-03-31"
+title: "My Identity"
+keywords: "identity, values, personality, strengths, missions, beliefs, bio"
+description: "David Hartsough is a young human male. This is his identity broken down by identities, values, missions, strengths, weaknesses, personality, etc."
 ---
 
 ## David Hartsough
@@ -11,6 +11,7 @@ Human male born March 31, 1994.
 
 ### Locales
 
+- Brisbane, QLD, AUS
 - Boise, ID
 - Peoria, IL
 - Princeton, IL
