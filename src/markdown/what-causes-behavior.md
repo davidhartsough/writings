@@ -123,7 +123,7 @@ Hating a person for their behavior is sadder than hating the sky for storming, h
 ## Conclusion
 
 <div style="text-align:center">
-<svg width="384" height="192" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+<svg width="384" height="192" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 384 192">
   <title>determinism</title>
   <g class="layer" stroke-linecap="round" stroke-linejoin="round">
     <g stroke="currentColor" fill="none" fill-opacity="0">

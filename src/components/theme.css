@@ -61,8 +61,10 @@ hr {
   margin: 0 0 1rem;
   padding: 0;
 }
-img {
+img,
+svg {
   max-width: 100%;
+  height: auto;
 }
 h1,
 h2,
