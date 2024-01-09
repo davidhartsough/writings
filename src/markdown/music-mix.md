@@ -2,7 +2,7 @@
 date: "2019-12-31"
 title: "Dope Music Mixes"
 keywords: "music, mix, mixtape, annual, year, yearly, dope, playlist, songs, exchange"
-description: "Dope music mixes through the years -- the end of the year playlists. An intro to the annual Dope Mixtape Exchange."
+description: "Dope music mixes through the years — the end of the year playlists. An intro to the annual Dope Mixtape Exchange."
 ---
 
 ## Mixtapes
@@ -37,6 +37,11 @@ At the end of the year! The big exchange typically happens around the 27th – 3
 Friends who are into traditional CDs tend to exchange those during their Christmas or New Year's Eve parties. But for the big exchange of Spotify (and YouTube) playlists, you'll want to head on over to the [#music](https://app.slack.com/client/TC5UDUQ82/CC8PMQ3ED) channel in the [Friends Worldwide](https://friendsworldwide.slack.com/) Slack space. (If you aren't already in this Slack group, just ask me to join <hartsoughdavid@gmail.com> and I'll get you in there.)
 
 ## David's Dope Music Mixes
+
+### 2023: to walk/drive/fly to
+
+- [Spotify](https://open.spotify.com/playlist/56czkWieuGLAw63uQ3rz1e?si=a19bb93975ee4f4a)
+- [YouTube](https://youtube.com/playlist?list=PLNrKhlLaqV1UOA0Mbpop1z_QGQj9N_SVa&si=rbrXo3bhJKlsOg7T)
 
 ### 2022: Bingo Bango Bongo
 
